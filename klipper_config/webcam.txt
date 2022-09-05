@@ -1,2 +1,2 @@
 camera="usb"
-camera_usb_options="-r 640x480 -f 24 -d /dev/v4l/by-id/usb-Generic_USB_Camera_200901010001-video-index0"
+camera_usb_options="-r 1920x1080 -d /dev/v4l/by-id/usb-Generic_USB_Camera_200901010001-video-index0"
